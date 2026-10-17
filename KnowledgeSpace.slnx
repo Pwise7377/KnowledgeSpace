@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="src/KnowledgeSpace.BackendServer/KnowledgeSpace.BackendServer.csproj" Id="4f89bc5b-27d0-4150-80d9-4934da222611" />
   <Project Path="src/KnowledgeSpace.ViewModels/KnowledgeSpace.ViewModels.csproj" Id="32429a9b-5b8c-49c3-9230-c22a846e4178" />
   <Project Path="src/KnowledgeSpace.WebPortal/KnowledgeSpace.WebPortal.csproj" Id="4b0f6045-cbc0-4f65-8867-23074f9372c6" />
